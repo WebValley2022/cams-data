@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*zip
+local_settings.py
+*.csv
+
